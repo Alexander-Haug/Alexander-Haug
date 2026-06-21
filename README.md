@@ -30,7 +30,6 @@ Estudante de Ciência de Dados e Inteligência Artificial (CDIA) na PUC-SP e con
 
 ## Minhas estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alexander-Haug&show_icons=true&theme=dark&locale=pt-br&hide_border=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Haug&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## Onde me encontrar
