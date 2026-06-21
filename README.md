@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexander 👋
+# Alexander
 
 Estudante de Ciência de Dados e Inteligência Artificial (CDIA) na PUC-SP e consultor na PUC Júnior, onde construo dashboards, faço análises e transformo dados em decisão para clientes reais. No dia a dia trabalho com Python, SQL e Power BI, e gosto de projeto que sai do notebook e chega em alguém de verdade.
 
