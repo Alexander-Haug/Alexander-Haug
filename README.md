@@ -21,15 +21,6 @@ Estudante de Ciência de Dados e Inteligência Artificial (CDIA) na PUC-SP e con
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos em destaque
-
-[![saferoute](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Haug&repo=saferoute&theme=dark)](https://github.com/Alexander-Haug/saferoute)
-[![predicao-peso-frangos](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Haug&repo=predicao-peso-frangos&theme=dark)](https://github.com/Alexander-Haug/predicao-peso-frangos)
-[![associacao-moradores-db](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Haug&repo=associacao-moradores-db&theme=dark)](https://github.com/Alexander-Haug/associacao-moradores-db)
-[![nfw-site](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Haug&repo=nfw-site&theme=dark)](https://github.com/Alexander-Haug/nfw-site)
-
-## Minhas estatísticas
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Haug&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## Onde me encontrar
