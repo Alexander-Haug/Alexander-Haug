@@ -20,9 +20,6 @@ Estudante de Ciência de Dados e Inteligência Artificial (CDIA) na PUC-SP e con
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Haug&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-haug-5a2455339/)
